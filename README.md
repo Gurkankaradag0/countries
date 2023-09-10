@@ -1,5 +1,7 @@
 # Countries
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2a4bc35b-a11c-42ae-9cf1-07c4d2d7fbb9/deploy-status)](https://countries-graphql-api.netlify.app)
+
 ## Setup
 
 -   Clone the repository:
